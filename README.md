@@ -1,7 +1,11 @@
 # Ruby-on-Rails
 membuat aplikasi Ruby on Rails- Halo Masyarakat Indonesia
-\nLINK: 
-\nRuby installer :https://rubyinstaller.org
-\nRubyGems :https://rubygems.org
-\nRails :http://railsinstaller.org/en
-\nBundler : $ gem install bundler
+LINK: 
+
+Ruby installer :https://rubyinstaller.org
+
+RubyGems :https://rubygems.org
+
+Rails :http://railsinstaller.org/en
+
+Bundler : $ gem install bundler
