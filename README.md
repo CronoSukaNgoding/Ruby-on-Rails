@@ -9,4 +9,4 @@ RubyGems :https://rubygems.org
 
 Rails :http://railsinstaller.org/en
 
-Bundler : $ gem install bundler
+Bundler : $ gem install bundler (run in cmd)
